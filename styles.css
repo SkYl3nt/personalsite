@@ -168,3 +168,18 @@ a {
 .copyright{
    color: white;
 } 
+.whatimake{
+  text-align: justify;
+  padding-bottom: 20px;
+  padding-right: auto;
+}
+.whatcanimake{
+  position: relative;
+  text-align: left;
+  font-family: 'Lexend', sans-serif;
+}
+.services{
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-size:large;  
+}
