@@ -183,3 +183,6 @@ a {
   font-family: 'Roboto', sans-serif;
   font-size:large;  
 }
+.search-container{
+  float:right
+}
